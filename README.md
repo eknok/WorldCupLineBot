@@ -1,24 +1,19 @@
 # README
+気分も乗らないのでなんとなく作成
+![ロゴ]('/sample_image/80007_imgbank_.png')
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+Lineで友達追加して、キーワードを入力すれば、2018年のW杯の対戦日程、日本時間のキックオフ時間を教えてくれるbotです
 
-Things you may want to cover:
+## 使用Gem
+[line-bot-sdk-ruby](https://github.com/line/line-bot-sdk-ruby)  
 
-* Ruby version
+## 参考URL
+[herokuガイド](https://devcenter.heroku.com/articles/getting-started-with-rails5)  
+[Qiita](https://qiita.com/Shuheiktgw/items/b101a0e30488879a3ae7)(FixieとかLine側のIPのWhitelistの設定諸々..)
 
-* System dependencies
+## 友達追加QRコード
+![worldcup-QRコード]('/sample_image/Line-worldcup-QR.png')
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## なお
+Herokuの無料枠で動かしているので月の制限や眠っている時があります。悪しからず
