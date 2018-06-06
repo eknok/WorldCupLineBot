@@ -1,0 +1,2 @@
+module BasebotsHelper
+end
