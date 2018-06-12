@@ -1,10 +1,9 @@
 # README
 気分も乗らないのでなんとなく作成  
 
-![ロゴ](/sample_image/80007_imgbank_.png)
-
 ## 概要
-Lineで友達追加して、キーワードを入力すれば、2018年のW杯の対戦日程、日本時間のキックオフ時間を教えてくれるbotです
+~~Lineで友達追加して、キーワードを入力すれば、2018年のW杯の対戦日程、日本時間のキックオフ時間を教えてくれるbotです~~
+現在停止中..
 
 ## 使用Gem
 [line-bot-sdk-ruby](https://github.com/line/line-bot-sdk-ruby)  
